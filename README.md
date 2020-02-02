@@ -3,10 +3,10 @@
 This gear list is organized based on the [REI Backpacking Gear List](https://www.rei.com/learn/expert-advice/backpacking-checklist.html).
 
 ## Backpacking Gear
-- Backpack with raincover: [Osprey Packs Osprey Pack Atmos Ag 65 Backpack, Rigby Red, Medium](https://www.amazon.com/gp/product/B077K5HGHW)
+- Backpack with raincover: [Osprey Atmos Ag 65 Backpack, Rigby Red, Medium](https://www.amazon.com/gp/product/B077K5HGHW)
 - Backpacking tent (with stakes, guylines): 
   - [Eureka! Midori Solo Tent](https://eurekacamping.johnsonoutdoors.com/tents/backpacking/midori-solo-tent)
-  - [Vargo Titanium Tent Stakes (6 Pack)](https://www.amazon.com/gp/product/B001OPKGAO)
+  - [Vargo Titanium Tent Stakes, 6 Pack](https://www.amazon.com/gp/product/B001OPKGAO)
 - Sleeping bag (with stuff sack): [Enlightened Equipment Convert APEX Custom](https://enlightenedequipment.com/convert-apex-custom/)
 - Sleeping pad: [Klymit Static V Sleeping Pad](https://www.amazon.com/gp/product/B007RFG0NM)
 - Headlamp or flashlight (with extra batteries): [Black Diamond Storm Headlamp, Octane](https://www.amazon.com/gp/product/B06WVK7LZS)
@@ -16,7 +16,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Packable lantern: [Petzl Noctilight](https://www.amazon.com/gp/product/B01KYTT642)
 - Tent footprint: [Eureka! 1-Person Fitted Tent Footprint](https://www.amazon.com/gp/product/B07KTCLGRH)
 - Pillow: [Therm-a-Rest Compressible Travel Pillow, Small](https://www.amazon.com/gp/product/B01MQLSI1M)
-- Bear spray: [Sabre Frontiersman Bear Spray 7.9 oz](https://www.amazon.com/gp/product/B002E6VAHK)
+- Bear spray: [Sabre Frontiersman Bear Spray, 7.9 oz](https://www.amazon.com/gp/product/B002E6VAHK)
 
 ## Backcountry Kitchen
 - Backpacking stove: 
