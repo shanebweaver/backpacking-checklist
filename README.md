@@ -16,7 +16,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Packable lantern: [Petzl Noctilight](https://www.amazon.com/gp/product/B01KYTT642)
 - Tent footprint: [Eureka! 1-Person Fitted Tent Footprint](https://www.amazon.com/gp/product/B07KTCLGRH)
 - Pillow: [Therm-a-Rest Compressible Travel Pillow, Small](https://www.amazon.com/gp/product/B01MQLSI1M)
-- Bear spray
+- Bear spray: [Sabre Frontiersman Bear Spray 7.9 oz](https://www.amazon.com/gp/product/B002E6VAHK)
 
 ## Backcountry Kitchen
 - Backpacking stove: 
@@ -30,7 +30,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Biodegradable soap
 - Small quick-dry towel: [PackTowl Personal Quick Dry Microfiber Towel, Face - 10 x 14 Inch](https://www.amazon.com/gp/product/B01MTOARTS)
 - Collapsible water container: [Sawyer Products SP113 Squeezable Pouch, 32-Ounce, 3-Pack](https://www.amazon.com/gp/product/B005SO8RQM)
-- Bear canister/food sack: [FrontiersMan Bear Canister, Slim Design](https://www.amazon.com/gp/product/B07B87GKZ1)
+- Bear canister/food sack: [FRONTIERSMAN Bear Canister, Slim Design](https://www.amazon.com/gp/product/B07B87GKZ1)
 
 ## Food & Water
 - Water bottles and/or reservoir: [Osprey Hydraulics Reservoir, 3 Liter](https://www.amazon.com/gp/product/B017JFWZ4W)
@@ -60,17 +60,17 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 ### Optional:
 - Sandals
 - Bandana or Buff
-- Gaiters
+- ~Gaiters~
 
 ## Navigation
 - Map
 - Compass
 
 ### Optional:
-- Route description or guidebook
+- ~Route description or guidebook~
 - Watch: [Casio F91W-1 Classic Resin Strap Digital Sport Watch](https://www.amazon.com/gp/product/B000GAWSDG)
-- GPS
-- Satellite messenger/personal locator beacon
+- ~GPS~
+- ~Satellite messenger/personal locator beacon~
 
 ## Emergency & First Aid
 - First-aid kit: [Surviveware Small First Aid Kit](https://www.amazon.com/gp/product/B01HGSLB6K)
@@ -106,14 +106,14 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Duct tape strips
 
 ## Backpacking Extras
-- Daypack
-- Camera
-- Interpretive field guide(s)
-- Star chart/night-sky identifier
-- Book/reading material
-- Cards or games
-- Compact binoculars
-- Two-way radios
+- ~Daypack~
+- ~Camera~
+- ~Interpretive field guide(s)~
+- ~Star chart/night-sky identifier~
+- ~Book/reading material~
+- ~Cards or games~
+- ~Compact binoculars~
+- ~Two-way radios~
 
 ## Personal Items
 - Permits (if needed)
