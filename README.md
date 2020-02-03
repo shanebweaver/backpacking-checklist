@@ -24,10 +24,10 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
   - [Optimus Windshield](https://www.amazon.com/gp/product/B00F5EUL7S)
 - Fuel: [MSR IsoPro Fuel 8 oz](https://www.amazon.com/gp/product/B00T3HECDM)
 - Cookset: [TOAKS Titanium 1100ml Pot with Pan](https://www.amazon.com/gp/product/B009MZHRKU)
-- Dishes/bowls
+- ~Dishes/bowls~
 - Eating utensils: [TOAKS Titanium Ultralight Spork](https://www.amazon.com/gp/product/B01MTOARTS)
-- Mug/cup
-- Biodegradable soap
+- Mug/cup: [TOAKS Titanium 750ml Pot](https://www.amazon.com/gp/product/B009B98FGW)
+- Biodegradable soap: [Campsuds](https://www.amazon.com/gp/product/B000TTL8GC)
 - Small quick-dry towel: [PackTowl Personal Quick Dry Microfiber Towel, Face - 10 x 14 Inch](https://www.amazon.com/gp/product/B01MTOARTS)
 - Collapsible water container: [Sawyer Products SP113 Squeezable Pouch, 32-Ounce, 3-Pack](https://www.amazon.com/gp/product/B005SO8RQM)
 - Bear canister/food sack: [FRONTIERSMAN Bear Canister, Slim Design](https://www.amazon.com/gp/product/B07B87GKZ1)
@@ -63,7 +63,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - ~Gaiters~
 
 ## Navigation
-- Map
+- Map: [National Geographic Trails, Washington National Parks](https://www.amazon.com/gp/product/1597756024)
 - Compass
 
 ### Optional:
@@ -101,7 +101,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Additional blister treatment supplies: [Dr. Scholl's Moleskin Plus Padding Roll](https://www.amazon.com/gp/product/B007W9MGLI)
 
 ## Tools & Repair Items
-- Knife or Multi-tool
+- Knife or Multi-tool: [Leatherman Free K4](https://www.amazon.com/gp/product/B07P7K6YSN)
 - Repair kit: [Best Glide ASE Survival Sewing and Repair Kit](https://www.amazon.com/gp/product/B004IAEFXQ)
 - Duct tape strips
 
