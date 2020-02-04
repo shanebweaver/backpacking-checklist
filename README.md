@@ -21,6 +21,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 ## Backcountry Kitchen
 - Backpacking stove: 
   - [MSR PocketRocket 2](https://www.amazon.com/gp/product/B01N5O7551)
+  - [MSR Universal Canister Stand](https://www.amazon.com/gp/product/B00453UJMM)
   - [Optimus Windshield](https://www.amazon.com/gp/product/B00F5EUL7S)
 - Fuel: [MSR IsoPro Fuel 8 oz](https://www.amazon.com/gp/product/B00T3HECDM)
 - Cookset: [TOAKS Titanium 1100ml Pot with Pan](https://www.amazon.com/gp/product/B009MZHRKU)
