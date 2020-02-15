@@ -16,21 +16,21 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Packable lantern: [Petzl Noctilight](https://www.amazon.com/gp/product/B01KYTT642)
 - Tent footprint: [Eureka! 1-Person Fitted Tent Footprint](https://www.amazon.com/gp/product/B07KTCLGRH)
 - Pillow: [Therm-a-Rest Compressible Travel Pillow, Small](https://www.amazon.com/gp/product/B01MQLSI1M)
-- Bear spray: [Sabre Frontiersman Bear Spray, 7.9 oz](https://www.amazon.com/gp/product/B002E6VAHK)
+- ~Bear spray~<!--: [Sabre Frontiersman Bear Spray, 7.9 oz](https://www.amazon.com/gp/product/B002E6VAHK)-->
 
 ## Backcountry Kitchen
 - Backpacking stove: 
   - [MSR PocketRocket 2](https://www.amazon.com/gp/product/B01N5O7551)
-  - [MSR Universal Canister Stand](https://www.amazon.com/gp/product/B00453UJMM)
+  - [Jetboil Fuel Can Stabilizer](https://www.amazon.com/gp/product/B00MUYUDC4)
   - [Optimus Windshield](https://www.amazon.com/gp/product/B00F5EUL7S)
 - Fuel: [MSR IsoPro Fuel 8 oz](https://www.amazon.com/gp/product/B00T3HECDM)
 - Cookset: [TOAKS Titanium 1100ml Pot with Pan](https://www.amazon.com/gp/product/B009MZHRKU)
 - ~Dishes/bowls~
-- Eating utensils: [TOAKS Titanium Ultralight Spork](https://www.amazon.com/gp/product/B01MTOARTS)
+- Eating utensils: [TOAKS Titanium Folding Spork](https://www.amazon.com/gp/product/B00GLD8SYA)
 - Mug/cup: [TOAKS Titanium 750ml Pot](https://www.amazon.com/gp/product/B009B98FGW)
 - Biodegradable soap: [Campsuds](https://www.amazon.com/gp/product/B000TTL8GC)
 - Small quick-dry towel: [PackTowl Personal Quick Dry Microfiber Towel, Face - 10 x 14 Inch](https://www.amazon.com/gp/product/B01MTOARTS)
-- Collapsible water container: [Sawyer Products SP113 Squeezable Pouch, 32-Ounce, 3-Pack](https://www.amazon.com/gp/product/B005SO8RQM)
+- Collapsible water container: [Sawyer Products SP113 Squeezable Pouch, 32-Ounce](https://www.amazon.com/gp/product/B005SO8RQM)
 - Bear canister/food sack: [FRONTIERSMAN Bear Canister, Slim Design](https://www.amazon.com/gp/product/B07B87GKZ1)
 
 ## Food & Water
@@ -46,7 +46,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Quick-drying pants/shorts
 - Long-sleeve shirt (for sun/bugs)
 - Lightweight fleece or jacket
-- Boots or shoes suited to terrain
+- Boots or shoes suited to terrain: [Oboz Men's Bridger BDRY Hiking Boot](https://www.amazon.com/gp/product/B00FJ2LL1Q)
 - Socks (synthetic or wool)
 - Extra clothes (beyond the minimum expectation)
 
@@ -65,11 +65,11 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 
 ## Navigation
 - Map: [National Geographic Trails, Washington National Parks](https://www.amazon.com/gp/product/1597756024)
-- Compass
+- Compass: [Coghlan's Deluxe Map Compass with Lanyard](https://www.amazon.com/gp/product/B000E22D6I)
 
 ### Optional:
 - ~Route description or guidebook~
-- Watch: [Casio F91W-1 Classic Resin Strap Digital Sport Watch](https://www.amazon.com/gp/product/B000GAWSDG)
+- Watch: [Casio F-91W Classic Resin Strap Digital Sport Watch](https://www.amazon.com/gp/product/B000GAWSDG)
 - ~GPS~
 - ~Satellite messenger/personal locator beacon~
 
@@ -77,7 +77,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - First-aid kit: [Surviveware Small First Aid Kit](https://www.amazon.com/gp/product/B01HGSLB6K)
 - Whistle
 - Lighter/matches: [BIC Mini Lighter](https://www.amazon.com/gp/product/B00863XN4I)
-- Fire starter
+- ~Fire starter~
 - Emergency shelter
 - Two itineraries: 1 left with friend + 1 under car seat
 
@@ -85,7 +85,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Hand sanitizer
 - Toothbrush and toothpaste
 - Sanitation trowel: [Vargo Dig Dig Tool](https://www.amazon.com/gp/product/B072N2N9RH)
-- Toilet paper/wipes and sealable bag (to pack it out)
+- Toilet paper/wipes
 - ~Menstrual products~
 - ~Prescription medications~
 - ~Prescription glasses~
@@ -102,7 +102,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Additional blister treatment supplies: [Dr. Scholl's Moleskin Plus Padding Roll](https://www.amazon.com/gp/product/B007W9MGLI)
 
 ## Tools & Repair Items
-- Knife or Multi-tool: [Leatherman Free K4](https://www.amazon.com/gp/product/B07P7K6YSN)
+- Knife or Multi-tool: [Leatherman Skeletool KBX Pocket Knife](https://www.amazon.com/gp/product/B071VN2R3L)
 - Repair kit: [Best Glide ASE Survival Sewing and Repair Kit](https://www.amazon.com/gp/product/B004IAEFXQ)
 - Duct tape strips
 
