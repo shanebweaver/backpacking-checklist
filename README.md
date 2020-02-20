@@ -59,7 +59,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Warm hat
 
 ### Optional:
-- Sandals
+- Sandals: [Crocs Classic Clog, Red](https://www.amazon.com/dp/B00HB55PZW)
 - Bandana or Buff
 - ~Gaiters~
 
