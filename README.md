@@ -34,7 +34,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Bear canister/food sack: [FRONTIERSMAN Bear Canister, Slim Design](https://www.amazon.com/gp/product/B07B87GKZ1)
 
 ## Food & Water
-- Water bottles and/or reservoir: [Osprey Hydraulics Reservoir, 3 Liter](https://www.amazon.com/gp/product/B017JFWZ4W)
+- Water bottles and/or reservoir: [Smartwater water bottle, 1 Liter, x2](https://www.amazon.com/gp/product/B000WGBH1S)
 - Water filter/purifier: [Sawyer Products SP137 Squeeze Water Filtration System](https://www.amazon.com/gp/product/B00WG9AFW6)
 - Meals
 - Energy food and drinks
