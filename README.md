@@ -47,7 +47,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Long-sleeve shirt (for sun/bugs)
 - Lightweight fleece or jacket
 - Boots or shoes suited to terrain: [Oboz Men's Bridger BDRY Hiking Boot](https://www.amazon.com/gp/product/B00FJ2LL1Q)
-- Socks (synthetic or wool)
+- Socks (synthetic or wool): Smartwool Hiking Socks
 - Extra clothes (beyond the minimum expectation)
 
 ### Additional items for rainy and/or cold weather:
@@ -55,7 +55,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Long underwear
 - Warm, insulated jacket or vest
 - Fleece pants
-- Gloves or mittens
+- Gloves or mittens: [Black Diamond Crag Gloves, Octane, Large](https://www.amazon.com/gp/product/B019C25E9I)
 - Warm hat
 
 ### Optional:
