@@ -7,7 +7,9 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Backpacking tent (with stakes, guylines): 
   - [Eureka! Midori Solo Tent](https://eurekacamping.johnsonoutdoors.com/tents/backpacking/midori-solo-tent)
   - [Vargo Titanium Tent Stakes, 6 Pack](https://www.amazon.com/gp/product/B001OPKGAO)
-- Sleeping bag (with stuff sack): [Enlightened Equipment Convert APEX Custom](https://enlightenedequipment.com/convert-apex-custom/)
+- Sleeping bag (with stuff sack): 
+  - [Enlightened Equipment Convert APEX Custom](https://enlightenedequipment.com/convert-apex-custom/)
+  - [Sea to Summit Ultra-SIL Compression Sack, 10L](https://www.amazon.com/gp/product/B000NQDH1U)
 - Sleeping pad: [Klymit Static V Sleeping Pad](https://www.amazon.com/gp/product/B007RFG0NM)
 - Headlamp or flashlight (with extra batteries): [Black Diamond Storm Headlamp, Octane](https://www.amazon.com/gp/product/B06WVK7LZS)
 
