@@ -92,6 +92,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Repair kit: [Best Glide ASE Survival Sewing and Repair Kit](https://www.amazon.com/gp/product/B004IAEFXQ)
 
 ## Backpacking Extras
+- [Rainleaf Microfiber Towel Perfect Travel, 20" x 40"](https://www.amazon.com/gp/product/B01A4ZXX5Y)
 - Portable charger: Gorilla Gadgets 20,000mAh w/ cable
 
 ## Personal Items
