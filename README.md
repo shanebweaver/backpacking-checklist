@@ -3,7 +3,8 @@
 This gear list is organized based on the [REI Backpacking Gear List](https://www.rei.com/learn/expert-advice/backpacking-checklist.html).
 
 ## Backpacking Gear
-- Backpack with raincover: [Osprey Atmos Ag 65 Backpack, Rigby Red, Medium](https://www.amazon.com/gp/product/B077K5HGHW)
+- Backpack: [Osprey Atmos Ag 65 Backpack, Rigby Red, Medium](https://www.amazon.com/gp/product/B077K5HGHW)
+- Backpack raincover
 - Backpacking tent (with stakes, guylines): 
   - [Eureka! Midori Solo Tent](https://eurekacamping.johnsonoutdoors.com/tents/backpacking/midori-solo-tent)
   - [Vargo Titanium Tent Stakes, 6 Pack](https://www.amazon.com/gp/product/B001OPKGAO)
@@ -18,7 +19,6 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Packable lantern: [Petzl Noctilight](https://www.amazon.com/gp/product/B01KYTT642)
 - Tent footprint: [Eureka! 1-Person Fitted Tent Footprint](https://www.amazon.com/gp/product/B07KTCLGRH)
 - Pillow: [Therm-a-Rest Compressible Travel Pillow, Small](https://www.amazon.com/gp/product/B01MQLSI1M)
-- ~Bear spray~<!--: [Sabre Frontiersman Bear Spray, 7.9 oz](https://www.amazon.com/gp/product/B002E6VAHK)-->
 
 ## Backcountry Kitchen
 - Backpacking stove: 
@@ -27,7 +27,6 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
   - [Optimus Windshield](https://www.amazon.com/gp/product/B00F5EUL7S)
 - Fuel: [MSR IsoPro Fuel 8 oz](https://www.amazon.com/gp/product/B00T3HECDM)
 - Cookset: [TOAKS Titanium 1100ml Pot with Pan](https://www.amazon.com/gp/product/B009MZHRKU)
-- ~Dishes/bowls~
 - Eating utensils: [TOAKS Titanium Folding Spork](https://www.amazon.com/gp/product/B00GLD8SYA)
 - Mug/cup: [TOAKS Titanium 750ml Pot](https://www.amazon.com/gp/product/B009B98FGW)
 - Biodegradable soap: [Campsuds](https://www.amazon.com/gp/product/B000TTL8GC)
@@ -36,61 +35,46 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Bear canister/food sack: [FRONTIERSMAN Bear Canister, Slim Design](https://www.amazon.com/gp/product/B07B87GKZ1)
 
 ## Food & Water
-- Water bottles and/or reservoir: [Smartwater water bottle, 1 Liter, x2](https://www.amazon.com/gp/product/B000WGBH1S)
+- Water bottles and/or reservoir: 
+  - [Smartwater water bottle, 1 Liter](https://www.amazon.com/gp/product/B000WGBH1S)
+  - [Osprey Hydraulics Reservoir, 3 Liter](https://www.amazon.com/gp/product/B017JFWZ4W)
 - Water filter/purifier: [Sawyer Products SP137 Squeeze Water Filtration System](https://www.amazon.com/gp/product/B00WG9AFW6)
-- Meals
-- Energy food and drinks
-- Extra day's supply of food
 
 ## Clothing & Footwear
-- Moisture-wicking underwear
-- Moisture-wicking T-shirt
-- Quick-drying pants/shorts
-- Long-sleeve shirt (for sun/bugs)
-- Lightweight fleece or jacket
+- Moisture-wicking underwear: [Adidas Climalite Trunks Underwear, x2](https://www.amazon.com/gp/product/B07KZ78634)
+- Moisture-wicking T-shirt: [Patagonia Capilene Cool Daily Graphic Shirt](https://www.patagonia.com/product/mens-capilene-cool-daily-graphic-shirt/45235.html)
+- Quick-drying pants: [Columbia Silver Ridge Convertible Pants](https://www.rei.com/product/146669)
+- Long-sleeve shirt (for sun/bugs): [Eddie Bauer Atlas Exploration Long-Sleeve Shirt](https://www.eddiebauer.com/p/12924204)
+- Lightweight fleece or jacket: [Eddie Bauer Mountain Henley](https://www.eddiebauer.com/p/13302332)
 - Boots or shoes suited to terrain: [Oboz Men's Bridger BDRY Hiking Boot](https://www.amazon.com/gp/product/B00FJ2LL1Q)
 - Socks (synthetic or wool): Smartwool Hiking Socks
-- Extra clothes (beyond the minimum expectation)
 
 ### Additional items for rainy and/or cold weather:
-- Rainwear (jacket and pants)
-- Long underwear
-- Warm, insulated jacket or vest
-- Fleece pants
-- Gloves or mittens: [Black Diamond Crag Gloves, Octane, Large](https://www.amazon.com/gp/product/B019C25E9I)
-- Warm hat
+- Rain jacket: [Frogg Toggs Xtreme Lite Waterproof Breathable Rain Jacket](https://www.amazon.com/gp/product/B077H5N6M5)
+- Long underwear: [Patagonia Capilene Midweight Base Layer Bottoms](https://www.rei.com/product/155316)
+- Gloves: [Black Diamond Crag Gloves, Octane, Large](https://www.amazon.com/gp/product/B019C25E9I)
+- Warm hat: Vans beanie
 
 ### Optional:
 - Sandals: [Crocs Classic Clog, Red](https://www.amazon.com/dp/B00HB55PZW)
-- Bandana or Buff
-- ~Gaiters~
+- Bandana or Buff: Eddie Bauer Balaclava
 
 ## Navigation
 - Map: [National Geographic Trails, Washington National Parks](https://www.amazon.com/gp/product/1597756024)
 - Compass: [Coghlan's Deluxe Map Compass with Lanyard](https://www.amazon.com/gp/product/B000E22D6I)
 
 ### Optional:
-- ~Route description or guidebook~
 - Watch: [Casio F-91W Classic Resin Strap Digital Sport Watch](https://www.amazon.com/gp/product/B000GAWSDG)
-- ~GPS~
-- ~Satellite messenger/personal locator beacon~
 
 ## Emergency & First Aid
 - First-aid kit: [Surviveware Small First Aid Kit](https://www.amazon.com/gp/product/B01HGSLB6K)
-- Whistle
 - Lighter/matches: [BIC Mini Lighter](https://www.amazon.com/gp/product/B00863XN4I)
-- ~Fire starter~
-- Emergency shelter
-- Two itineraries: 1 left with friend + 1 under car seat
 
 ## Health & Hygiene
 - Hand sanitizer
 - Toothbrush and toothpaste
 - Sanitation trowel: [Vargo Dig Dig Tool](https://www.amazon.com/gp/product/B072N2N9RH)
-- Toilet paper/wipes
-- ~Menstrual products~
-- ~Prescription medications~
-- ~Prescription glasses~
+- Toilet paper/wipes: Wet Ones wipes
 
 ### Sun protection:
 - Sunglasses
@@ -100,27 +84,17 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 
 ### Optional:
 - Insect repellent
-- ~Urinary products~
 - Additional blister treatment supplies: [Dr. Scholl's Moleskin Plus Padding Roll](https://www.amazon.com/gp/product/B007W9MGLI)
+- Bug net: [Sea to Summit Mosquito Head Net](https://www.amazon.com/gp/product/B000NSZ3WY)
 
 ## Tools & Repair Items
 - Knife or Multi-tool: [Leatherman Skeletool KBX Pocket Knife](https://www.amazon.com/gp/product/B071VN2R3L)
 - Repair kit: [Best Glide ASE Survival Sewing and Repair Kit](https://www.amazon.com/gp/product/B004IAEFXQ)
-- Duct tape strips
 
 ## Backpacking Extras
-- ~Daypack~
-- ~Camera~
-- ~Interpretive field guide(s)~
-- ~Star chart/night-sky identifier~
-- ~Book/reading material~
-- ~Cards or games~
-- ~Compact binoculars~
-- ~Two-way radios~
+- Portable charger: Gorilla Gadgets 20,000mAh w/ cable
 
 ## Personal Items
-- Permits (if needed)
-- Credit card and/or cash
-- ID
+- Wallet
 - Car keys
 - Cellphone
