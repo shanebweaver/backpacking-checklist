@@ -19,6 +19,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Packable lantern: [Petzl Noctilight](https://www.amazon.com/gp/product/B01KYTT642)
 - Tent footprint: [Eureka! 1-Person Fitted Tent Footprint](https://www.amazon.com/gp/product/B07KTCLGRH)
 - Pillow: [Therm-a-Rest Compressible Travel Pillow, Small](https://www.amazon.com/gp/product/B01MQLSI1M)
+- Sitting pad: [Therm-a-Rest Z Seat](https://www.amazon.com/gp/product/B01MQRHYJV)
 
 ## Backcountry Kitchen
 - Backpacking stove: 
@@ -93,7 +94,10 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 
 ## Backpacking Extras
 - [Rainleaf Microfiber Towel Perfect Travel, 20" x 40"](https://www.amazon.com/gp/product/B01A4ZXX5Y)
-- Portable charger: Gorilla Gadgets 20,000mAh w/ cable
+- Gorilla Gadgets 20,000mAh Portable Charger w/ Cable
+- [Google USB-C Wired Digital Earbud Headset](https://www.amazon.com/gp/product/B07SL5RDMH)
+- [Nite Ize Curvyman Cord Supervisor](https://www.amazon.com/gp/product/B002LED4II)
+
 
 ## Personal Items
 - Wallet
