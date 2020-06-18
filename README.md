@@ -26,7 +26,6 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
   - [MSR PocketRocket 2](https://www.amazon.com/gp/product/B01N5O7551)
   - [Jetboil Fuel Can Stabilizer](https://www.amazon.com/gp/product/B00MUYUDC4)
   - [Optimus Windshield](https://www.amazon.com/gp/product/B00F5EUL7S)
-- Fuel: [MSR IsoPro Fuel 8 oz](https://www.amazon.com/gp/product/B00T3HECDM)
 - Cookset: [TOAKS Titanium 1100ml Pot with Pan](https://www.amazon.com/gp/product/B009MZHRKU)
 - Eating utensils: [TOAKS Titanium Folding Spork](https://www.amazon.com/gp/product/B00GLD8SYA)
 - Mug/cup: [TOAKS Titanium 750ml Pot](https://www.amazon.com/gp/product/B009B98FGW)
