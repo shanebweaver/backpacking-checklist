@@ -32,7 +32,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Biodegradable soap: [Campsuds](https://www.amazon.com/gp/product/B000TTL8GC)
 - Small quick-dry towel: [PackTowl Personal Quick Dry Microfiber Towel, Face - 10 x 14 Inch](https://www.amazon.com/gp/product/B01MTOARTS)
 - Collapsible water container: [Sawyer Products SP113 Squeezable Pouch, 32-Ounce](https://www.amazon.com/gp/product/B005SO8RQM)
-- Bear canister/food sack: [FRONTIERSMAN Bear Canister, Slim Design](https://www.amazon.com/gp/product/B07B87GKZ1)
+- ~Bear canister/food sack: [FRONTIERSMAN Bear Canister, Slim Design](https://www.amazon.com/gp/product/B07B87GKZ1)~
 
 ## Food & Water
 - Water bottles and/or reservoir: 
@@ -41,7 +41,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Water filter/purifier: [Sawyer Products SP137 Squeeze Water Filtration System](https://www.amazon.com/gp/product/B00WG9AFW6)
 
 ## Clothing & Footwear
-- Moisture-wicking underwear: [Adidas Climalite Trunks Underwear, x2](https://www.amazon.com/gp/product/B07KZ78634)
+- Moisture-wicking underwear: [Adidas Climalite Trunks Underwear](https://www.amazon.com/gp/product/B07KZ78634)
 - Moisture-wicking T-shirt: [Patagonia Capilene Cool Daily Graphic Shirt](https://www.patagonia.com/product/mens-capilene-cool-daily-graphic-shirt/45235.html)
 - Quick-drying pants: [Columbia Silver Ridge Convertible Pants](https://www.rei.com/product/146669)
 - Long-sleeve shirt (for sun/bugs): [Eddie Bauer Atlas Exploration Long-Sleeve Shirt](https://www.eddiebauer.com/p/12924204)
@@ -51,7 +51,9 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 
 ### Additional items for rainy and/or cold weather:
 - Rain jacket: [Frogg Toggs Xtreme Lite Waterproof Breathable Rain Jacket](https://www.amazon.com/gp/product/B077H5N6M5)
-- Long underwear: [Patagonia Capilene Midweight Base Layer Bottoms](https://www.rei.com/product/155316)
+- Long underwear: 
+  - [Patagonia Capilene Midweight Base Layer Bottoms](https://www.rei.com/product/155316)
+  - Patagonia Capilene Midweight Base Layer Top
 - Gloves: [Black Diamond Crag Gloves, Octane, Large](https://www.amazon.com/gp/product/B019C25E9I)
 - Warm hat: Vans beanie
 
