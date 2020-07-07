@@ -86,15 +86,16 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 
 ### Optional:
 - Insect repellent
-- Additional blister treatment supplies: [Dr. Scholl's Moleskin Plus Padding Roll](https://www.amazon.com/gp/product/B007W9MGLI)
+- Blister treatment supplies: [Dr. Scholl's Moleskin Plus Padding Roll](https://www.amazon.com/gp/product/B007W9MGLI)
 - Bug net: [Sea to Summit Mosquito Head Net](https://www.amazon.com/gp/product/B000NSZ3WY)
 
 ## Tools & Repair Items
-- Knife or Multi-tool: [Leatherman Skeletool KBX Pocket Knife](https://www.amazon.com/gp/product/B071VN2R3L)
+- Knife or Multi-tool: [Leatherman Skeletool Lightweight Multitool](https://www.amazon.com/gp/product/B000XU9NXW)
 - Repair kit: [Best Glide ASE Survival Sewing and Repair Kit](https://www.amazon.com/gp/product/B004IAEFXQ)
 
 ## Backpacking Extras
-- [Rainleaf Microfiber Towel Perfect Travel, 20" x 40"](https://www.amazon.com/gp/product/B01A4ZXX5Y)
+- [Ka-Bar Backpacker Caster Lightweight Fishing System](https://www.amazon.com/gp/product/B07D2LCLZZ)
+- [Rainleaf Microfiber Towel, 20" x 40"](https://www.amazon.com/gp/product/B01A4ZXX5Y)
 - Gorilla Gadgets 20,000mAh Portable Charger w/ Cable
 - [Google USB-C Wired Digital Earbud Headset](https://www.amazon.com/gp/product/B07SL5RDMH)
 - [Nite Ize Curvyman Cord Supervisor](https://www.amazon.com/gp/product/B002LED4II)
