@@ -5,7 +5,7 @@ This kit contains enough supplies to handle multiple minor cuts, scrapes, burns,
 
 | Weight | Dimensions |
 | - | - |
-| 2.5 ounces |  3.5 x 2.25 x 0.75 inches |
+| 2.43 ounces |  3.5 x 2.25 x 0.75 inches |
 
 ## Supplies
 
