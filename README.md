@@ -45,7 +45,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Moisture-wicking T-shirt: [Patagonia Capilene Cool Daily Graphic Shirt](https://www.patagonia.com/product/mens-capilene-cool-daily-graphic-shirt/45235.html)
 - Quick-drying pants: [Columbia Silver Ridge Convertible Pants](https://www.rei.com/product/146669)
 - Long-sleeve shirt (for sun/bugs): [Eddie Bauer Atlas Exploration Long-Sleeve Shirt](https://www.eddiebauer.com/p/12924204)
-- Lightweight fleece or jacket: [Eddie Bauer Mountain Henley](https://www.eddiebauer.com/p/13302332)
+- Lightweight fleece or jacket: Eddie Bauer Zipper Fleece 
 - Boots or shoes suited to terrain: [Oboz Men's Bridger BDRY Hiking Boot](https://www.amazon.com/gp/product/B00FJ2LL1Q)
 - Socks (synthetic or wool): Smartwool Hiking Socks
 
@@ -65,12 +65,9 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 - Map: [National Geographic Trails, Washington National Parks](https://www.amazon.com/gp/product/1597756024)
 - Compass: [Coghlan's Deluxe Map Compass with Lanyard](https://www.amazon.com/gp/product/B000E22D6I)
 
-### Optional:
-- Watch: [Casio F-91W Classic Resin Strap Digital Sport Watch](https://www.amazon.com/gp/product/B000GAWSDG)
-
 ## Emergency & First Aid
-- First-aid kit: [Surviveware Small First Aid Kit](https://www.amazon.com/gp/product/B01HGSLB6K)
-- Lighter/matches: [BIC Mini Lighter](https://www.amazon.com/gp/product/B00863XN4I)
+- First-aid kit: [First Aid Altoids Tin](./first-aid-tin.md)
+- Lighter/matches: [Fire Starter Altoids Tin](./fire-starter-tin.md)
 
 ## Health & Hygiene
 - Hand sanitizer
@@ -102,6 +99,7 @@ This gear list is organized based on the [REI Backpacking Gear List](https://www
 
 
 ## Personal Items
+- Watch: [Casio F-91W Classic Resin Strap Digital Sport Watch](https://www.amazon.com/gp/product/B000GAWSDG)
 - Wallet
 - Car keys
 - Cellphone
